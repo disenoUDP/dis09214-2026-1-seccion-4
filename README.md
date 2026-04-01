@@ -104,7 +104,7 @@ si estudiante rinde examen, la nota final del curso se calcula como `0.7 * NP + 
 | 25 | <https://github.com/matitello>          | <https://editor.p5js.org/matitello/sketches>          |
 | 26 | <https://github.com/trinidadvasquez>    |  <https://editor.p5js.org/trinidadvasquez/sketches>   |
 | 27 | <https://github.com/sofifigs>           |  <https://editor.p5js.org/sofifigs/sketches>          |
-| 28 | TBD                                     | TBD                                                   |
+| 28 |    <https://github.com/javierazzapata>  |  <https://editor.p5js.org/javierazzapata/sketches>                                                 |
 
 ## bibliografía
 
