@@ -8,4 +8,4 @@ ganas
  una 
  sopaipilla
 
- ![texto que explica la imagen](./foto.png)
+ ![texto que explica la imagen](./pato.jpg)
