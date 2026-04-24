@@ -1,7 +1,8 @@
 # sesion-02
 codigo lineas 24.04
-// quiero que desde un punto medio del lienzo primero haya un punto
 
+
+// quiero que desde un punto medio del lienzo primero haya un punto
 // al principio se dibuje nada y luego vaya de a poquito subiendo
 
 
