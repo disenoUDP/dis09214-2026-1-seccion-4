@@ -34,7 +34,7 @@ for(inicio de los tiempos
    refresco/actualización){
 }
 ```
-Usualmente se usa "i" de iterar. Entonces existe una variable que se llama "i" y vale "0" al principio de los tiempos. Luego usamos "i", en este caso nos preguntamos: ¿Es "i" menor que 5?, si, porque "5" es menor que "0".
+Usualmente se usa "i" de iterar. Entonces existe una variable que se llama "i" y vale "0" al principio de los tiempos. Luego usamos "i", en este caso nos preguntamos: ¿Es "i" menor que 5?, si, porque "0" es menor que "5".
 
 Ahora, "i" lo que sea que vales, vales lo mismo + 1 (i++), cuando esto ocurra, se dibuja una elipse de 10x10 en un lugar random)
 
