@@ -20,6 +20,7 @@ for se escribe asi
   text += "The number is " + i + "<br>";
   
 }
+
 dentro de los {} hay código.
 
 i es de iterar
