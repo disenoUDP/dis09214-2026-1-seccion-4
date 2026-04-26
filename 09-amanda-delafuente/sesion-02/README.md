@@ -10,3 +10,4 @@ if (si esta esta condicion pasa esto otro)
 
 
 panel izquierdo de p5 encontramos INDEX.HTML
+logical or ||
