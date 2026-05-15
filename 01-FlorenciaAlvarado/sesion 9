@@ -1,0 +1,60 @@
+function setup() {
+  createCanvas(400, 400);
+  frameRate(10);
+}
+
+function draw() {
+  background(220);
+  
+  for (let i = 0; i < 100; i++) {
+    
+    posX = mouseX + random (-100,100);
+    posY = mouseY + random(-100,100) ;
+    
+    if (posX < mouseX) {
+      
+      
+      
+      push();
+      fill(225,0,0);
+      
+    } else if (posX > mouseX)
+      {
+        noFill();
+     }else if (posX == mouseX){
+       
+       
+     }
+    
+    
+    //edit tidy code no olvidar hacerlo para solemne 2
+  // sin faltas de ortografia o baja puntaje
+    // saber que cada linea hace
+    //si usamos ia poner toda la informacion 
+
+
+    
+//definir dado
+let dado;
+
+//definir cant caras dado
+
+const dadoCaras=6
+
+function setup() {
+  createCanvas(400, 400);
+}
+
+function draw() {
+  background(220);
+  console.log (dado);
+}
+  function mousePressed (){
+    console.log("click");
+    dado= ceil(random(dadoCaras));
+    //usar dadoCaras con random resulta entre valores entre 0 y dadoCaras pero tiene parte decimal, por lo que aproximo con ceil en vez de floor porque queria partir desde 1.
+    //ceil=cielo, antes que techo.
+    // retorna un numero aleatorio o elemento random
+    
+    //for permite hacer algo tantas veces
+  }
