@@ -182,7 +182,7 @@ function mousePressed() {
 
 1. Tomar una obra de arte (amplio) en Español o en América, describirlo brevemente en el encabezado del código como comentario para entenderlo.
 2. Responder a esta obra. ¿Cómo? Con un sketch en p5 que debe usar if, for, moverse (framecount, sinusoide, etc) y cada línea extremadamente comentada justo arriba.
-3. Antes de ser enviada deben hacer click en edit/tiny code
+3. Antes de ser enviada deben hacer click en edit/tidy code
 
 Debe llamarse Solemne-02
 
@@ -192,9 +192,9 @@ Debe llamarse Solemne-02
 * 1 punto entero por MOVERSE
 * 1 punto entero por tidy code
 
-* **5 puntos MENOS**, si NO se hace TINY CODE
+* **5 puntos MENOS**, si NO se hace TIDY CODE
 * **3 puntos MENOS**, si HAY faltas de ortografía (no cuentan los tildes)
-* **6 puntos MENOS** si es que les preguntasmo ¿que hace? una línea, y no saben. (si se hace alguna cosa con IA describir TODO y dar crédito en los comentarios)
+* **6 puntos MENOS** si es que les preguntamos ¿que hace? una línea, y no saben. (si se hace alguna cosa con IA describir TODO y dar crédito en los comentarios)
 
 
 
