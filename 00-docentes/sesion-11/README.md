@@ -61,7 +61,7 @@ let myArray = ['deeppink', 'darkorchid', 'magenta'];
 
 Ejemplo en clases: 
 
-```
+``` js
 // arreglo array
 // fue declarado de forma global
 let seccion4 = ["javiera", "kati4ska", "mish", "juan", "luciana", "pepito"];
@@ -88,7 +88,7 @@ function draw() {
 
 Ejemplo array 2
 
-```
+``` js
 // arreglo array
 // fue declarado de forma global
 let seccion4 = ["javiera", "kati4ska", "mish", "juan", "luciana", "pepito"];
@@ -115,5 +115,60 @@ function draw() {
 }
 
 ```
+### ¿Cómo hacer un arreglo con imágenes?
 
+1. Guardar imágenes en el computador.
+2. Crear carpeta en p5 en donde subiremos las imágenes.
+3. Esperar y ver lo que se subió.
+4. Crear un arreglo con un nombre `let nombre =` lo que define que es una imagen es dónde vive una imagen.
+5. `["nombreDeLaCarpeta/nombreDeLaImagen", "nombreDeLaCarpeta/nombreDeLaImagen2", "nombreDeLaCarpeta/nombreDeLaImagen3"]`
+6. Crear un arreglo que mostrará las imágenes `let nombre1 =`
+7. Ahora creamos un `for(let i = 0; i < dirs.length; i++) {nombre2.push(loadImage(nombre[i]));}`
+
+Push hace que la fila hace lo que tenga que hacer, añade un espacio al final de esta.
+
+
+Ejemplo 1: 
+**for:** Anda a las direcciones, dime cuantas direcciones hay, por cada direccion carga loadimage y las colocas en el arreglo álbumes.
+
+```js
+// quiero crear un arreglo de imagenes
+// quiero celebrar mis albumes favoritos
+
+// crear un arreglo de direcciones
+let dirs = ["albumes/javiera.png", "albumes/gepe.jpg", "albumes/inti.jpg"];
+
+// crear un arreglo vacio de albumes
+let albumes = [];
+
+// en preload() quiero cargar las imagenes
+// quiero recorrer todas las direcciones
+// y cargar las imagenes correspondientes
+function preload() {
+  
+  for(let i = 0; i < dirs.length; i++) {
+    albumes.push(loadImage(dirs[i]));
+  }
+  
+  
+  // javiera = loadImage("albumes/javiera.png");
+}
+
+function setup() {
+  createCanvas(800, 600);
+  frameRate(3);
+  background(255);
+}
+
+function draw() {
+  // background(220);
+  // image(javiera, mouseX, mouseY);
+  image(albumes[frameCount%3],
+       random(width),
+       random(height),
+       random(100),
+       random(100)
+       );
+}
+```
 
