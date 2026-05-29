@@ -128,7 +128,7 @@ function draw() {
 Push hace que la fila hace lo que tenga que hacer, añade un espacio al final de esta.
 
 
-Ejemplo 1: 
+### Ejemplo 1: 
 **for:** Anda a las direcciones, dime cuantas direcciones hay, por cada direccion carga loadimage y las colocas en el arreglo álbumes.
 
 ```js
