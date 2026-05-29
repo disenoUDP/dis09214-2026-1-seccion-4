@@ -55,7 +55,7 @@ let myArray = ['deeppink', 'darkorchid', 'magenta'];
 
  Importantes las comillas, simples o dobles, es decir: `' '` o `" "`, importante terminar con la misma que se empezó, no combinarlas. Sino ponemos comillas el computador no sabe lo que es.
 
- Lo puedo declarar donde lo necesite, usualmente antes de setup, así las podemos suar en todas partes.
+ Lo puedo declarar donde lo necesite, usualmente antes de setup, así las podemos usar en todas partes.
  
  Si las declaro en Septup o draw, las encasillo en ese lugar, pero también se puede.
 
