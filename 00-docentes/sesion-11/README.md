@@ -53,6 +53,8 @@ let myArray = ['deeppink', 'darkorchid', 'magenta'];
    - 'darkorchid' es index 1
    - 'magenta' es index 2
 
+ Importantes las comillas, en este caso comillas simples, es decir: ' ', sino el computador no sabe lo que es.
+
  
 
 
