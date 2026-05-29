@@ -53,9 +53,11 @@ let myArray = ['deeppink', 'darkorchid', 'magenta'];
    - 'darkorchid' es index 1
    - 'magenta' es index 2
 
- Importantes las comillas, en este caso comillas simples, es decir: ' ', sino el computador no sabe lo que es.
+ Importantes las comillas, en este caso comillas, es decir: `' '` o `" "`, sino el computador no sabe lo que es.
 
+ Lo puedo declarar donde lo necesite, usualmente antes de setup, así las podemos suar en todas partes.
  
+ Si las declaro en Septup o draw, las encasillo en ese lugar, pero también se puede.
 
 
 
