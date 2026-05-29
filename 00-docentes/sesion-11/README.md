@@ -172,3 +172,15 @@ function draw() {
 }
 ```
 
+### Pixeles
+
+<https://p5js.org/reference/p5/pixels/>
+
+loadPixels: p5 por favor memoriza todo lo que vez y cargalo dentro de pixels.
+
+> Cantidad y densidad de pixeles.
+
+`pixels.length` es el numero de valores que componen los pixeles no la cantidad de pixeles.
+
+
+
