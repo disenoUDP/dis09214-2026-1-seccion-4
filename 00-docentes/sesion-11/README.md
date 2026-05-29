@@ -53,7 +53,7 @@ let myArray = ['deeppink', 'darkorchid', 'magenta'];
    - 'darkorchid' es index 1
    - 'magenta' es index 2
 
- Importantes las comillas, en este caso comillas, es decir: `' '` o `" "`, sino el computador no sabe lo que es.
+ Importantes las comillas, simples o dobles, es decir: `' '` o `" "`, importante terminar con la misma que se empezó, no combinarlas. Sino ponemos comillas el computador no sabe lo que es.
 
  Lo puedo declarar donde lo necesite, usualmente antes de setup, así las podemos suar en todas partes.
  
