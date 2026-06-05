@@ -60,9 +60,9 @@ esta sección es impartida por profesore aarón montoya, en conjunto con ayudant
 | [09](./00-docentes/sesion-09/README.md)     | 05-15 | repaso y anteproyecto     |
 | [10](./00-docentes/sesion-10/README.md)     | 05-22 | solemne 2                 |
 | [11](./00-docentes/sesion-11/README.md)     | 05-29 | arreglos                  |
-| [12](./00-docentes/sesion-12/README.md)     | 06-05 | color en computación      |
-| [13](./00-docentes/sesion-13/README.md)     | 06-12 | HTML y web estática       |
-| [14](./00-docentes/sesion-14/README.md)     | 06-19 | anteproyecto              |
+| [12](./00-docentes/sesion-12/README.md)     | 06-05 | funciones                 |
+| [13](./00-docentes/sesion-13/README.md)     | 06-12 | color en computación      |
+| [14](./00-docentes/sesion-14/README.md)     | 06-19 |  HTML y web estática      |
 | [15](./00-docentes/sesion-15/README.md)     | 06-26 | examen                    |
 
 ## asistencia
