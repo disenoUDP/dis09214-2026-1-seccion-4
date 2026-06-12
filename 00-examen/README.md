@@ -11,8 +11,10 @@ Debe llamarse examen-NOMBREDEUSUARIOGITHUB
 * 1 punto por uso de funciones
 * 1 punto por orden de comentarios
 * 1 punto por texto de comentarios
-* 1 punto entero por orden de codigo
+* 1 punto entero por orden de codigo y por incluir en el encabezado 2 borradores de su proceso
 * 1 punto entero por investigacion y aplicacion de algun concepto nuevo de su interes
+
+descuentos:
 
 * **3 puntos MENOS**, si NO se hace TIDY CODE
 * **3 puntos MENOS**, si NO se entrega con el nombre adecuado
