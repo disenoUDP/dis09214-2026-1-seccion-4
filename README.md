@@ -64,7 +64,7 @@ esta sección es impartida por profesore aarón montoya, en conjunto con ayudant
 | [13](./00-docentes/sesion-13/README.md)     | 06-12    | color en computación      |
 | [14](./00-docentes/sesion-14/README.md)     | 06-19    | trabajo en examen         |
 | [15](./00-docentes/sesion-15/README.md)     | 06-26    | examen                    |
-| processing community day                    | 06-26/27 | examen                    |
+| processing community day                    | 06-26/27 | actividades               |
 
 ## asistencia
 
