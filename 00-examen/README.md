@@ -26,5 +26,6 @@ descuentos:
 * 800 x 800 px
 * no sea interactivo, no necesite teclado, no necesite mouse, ni webcam
 * que tenga movimiento o animacion
+* entrega en canvas la medianoche anterior
 
 
